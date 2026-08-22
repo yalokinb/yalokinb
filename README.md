@@ -35,7 +35,7 @@
 
 ## Projects
 
-**yalokiN Portfolio** — этот сайт. Full-stack Digital Identity платформа. `LIVE`
+**yalokiN_b Portfolio** — этот сайт. Full-stack Digital Identity платформа. `LIVE`
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `PostgreSQL` `Drizzle`
 
