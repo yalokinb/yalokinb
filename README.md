@@ -39,9 +39,13 @@
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `PostgreSQL` `Drizzle`
 
-**FinanceFlow** — AI-помощник для личных финансов: chat-first учёт расходов, прогнозы трат, бюджеты и цели. `BUILDING`
+**Sklad WMS** — система складского учёта (WMS): адресное хранение, ЗИП-каталог, акты и инвентаризация. `BUILDING`
 
-`Next.js` `TypeScript` `OpenAI` `PostgreSQL` `Drizzle` `Telegram API`
+`Next.js` `React` `TypeScript` `Drizzle` `PostgreSQL` `Tailwind CSS`
+
+**FinanceFlow** — Telegram-бот для учёта личных финансов: пишешь сообщение, он разбирает трату и ведёт историю. `LIVE`
+
+`Python` `aiogram 3` `SQLAlchemy` `PostgreSQL` `Docker`
 
 ---
 
